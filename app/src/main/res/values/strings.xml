@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prima</string>
+    <string name="saluto">Ciao</string>
+    <string name="saluto2">Buongiorno</string>
+    <string name="button_saluta">Saluta</string>
+    <string name="textEdit_saluta">Nome</string>
+</resources>
