@@ -1,7 +1,13 @@
 <resources>
     <string name="app_name">Prima</string>
-    <string name="saluto">Ciao</string>
+    <string name="saluto">fgerbuhdjnxk</string>
     <string name="saluto2">Buongiorno</string>
-    <string name="button_saluta">Saluta</string>
-    <string name="textEdit_saluta">Nome</string>
+    <string name="button_saluta">Prova</string>
+    <string name="textEdit_saluta">Titolo</string>
+    <string name="bottone_gioca">GIOCA</string>
+    <string name="resa">Mi arrendo</string>
+    <string name="istruzione">Indovina il titolo del film</string>
+    <string name="vuota" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
